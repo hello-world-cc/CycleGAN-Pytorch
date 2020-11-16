@@ -19,8 +19,12 @@ python main.py --mode train
 python main.py --mode test
 ```
 ## Results
-* For horse to zebra dataset. ( Real - Generated )
-https://github.com/hello-world-cc/CycleGAN-Pytorch/blob/main/images/horse2zebra1.PNG
-https://github.com/hello-world-cc/CycleGAN-Pytorch/blob/main/images/horse2zebra2.PNG
-https://github.com/hello-world-cc/CycleGAN-Pytorch/blob/main/images/zebra2horse1.PNG
-https://github.com/hello-world-cc/CycleGAN-Pytorch/blob/main/images/zebra2horse2.PNG
+* For horse to zebra dataset. ( Real - Generated )<br>
+ ![image](https://github.com/hello-world-cc/CycleGAN-Pytorch/blob/main/images/horse2zebra1.PNG)
+ ![image](https://github.com/hello-world-cc/CycleGAN-Pytorch/blob/main/images/horse2zebra2.PNG)
+ ![image](https://github.com/hello-world-cc/CycleGAN-Pytorch/blob/main/images/zebra2horse1.PNG)
+ ![image](https://github.com/hello-world-cc/CycleGAN-Pytorch/blob/main/images/zebra2horse2.PNG)
+
+
+
+
